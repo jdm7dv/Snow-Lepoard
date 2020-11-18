@@ -14,4 +14,6 @@ https://macintoshgarden.org/apps/fireworks-v4
 
 https://macintoshgarden.org/apps/macromedia-flash-5
 
+https://macintoshgarden.org/apps/macromedia-freehand-9
+
 
