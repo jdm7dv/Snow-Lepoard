@@ -12,4 +12,6 @@ https://macintoshgarden.org/apps/dreamweaver-401
 
 https://macintoshgarden.org/apps/fireworks-v4
 
+https://macintoshgarden.org/apps/macromedia-flash-5
+
 
