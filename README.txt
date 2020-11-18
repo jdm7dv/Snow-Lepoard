@@ -10,4 +10,6 @@ https://macintoshgarden.org/apps/macromedia-director-mx-2004
 
 https://macintoshgarden.org/apps/dreamweaver-401
 
+https://macintoshgarden.org/apps/fireworks-v4
+
 
